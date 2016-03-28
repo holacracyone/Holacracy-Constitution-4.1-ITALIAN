@@ -1,52 +1,15 @@
 ***Versione della Costituzione (Constitution Version): 4.1***
-
 ***Versione della Traduzione (Translation Version) : 1.0***
 
 ***NOTE DEL TRADUTTORE:***
 
-*Il presente documento costituisce una traduzione della corrispondente
-versione in lingua originale inglese scaricabile al seguente URL:*
-
-[*http://www.holacracy.org/constitution*](http://www.holacracy.org/constitution)
+*Il presente documento costituisce una traduzione della corrispondente versione in lingua originale inglese scaricabile al seguente URL: [http://holacracy.org/constitution](http://holacracy.org/constitution)*
 
 *il Termine HOLACRACY è un marchio registrato da HolacracyOne LLC*
 
-*La Costituzione di Holacracy e di conseguenza la presente traduzione,
-sono sottoposte a licenza di tipo: **Creative Commons Attribution
-ShareAlike 4.0 International License:
-[***https://creativecommons.org/licenses/by-sa/4.0***](https://creativecommons.org/licenses/by-sa/4.0)
+*La Costituzione di Holacracy e di conseguenza la presente traduzione, sono sottoposte a licenza di tipo: **Creative Commons Attribution ShareAlike 4.0 International License: [***https://creativecommons.org/licenses/by-sa/4.0***](https://creativecommons.org/licenses/by-sa/4.0)
 
-*per maggiori informazioni su Holacracy fare riferimento all’URL:*
-
-[*http://www.holacracy.org*](http://www.holacracy.org)
-
-Per commenti o suggerimenti, inviare una mail ad Andrea Faré:
-
-<anfare@gmail.com> possibilmente indicando nel subject: “Holacracy v4.1
-Translation”
-
-***TRANSLATOR NOTES:***
-
-*This document is a translation of the Holacracy Constitution .4.1 which
-can be downloaded at the following URL :*
-
-[*http://www.holacracy.org/constitution*](http://www.holacracy.org/constitution)
-
-*HOLACRACY is a registered trademark of HolacracyOne LLC*
-
-*The Constituion and this translation are licensed under a **Creative
-Commons Attribution ShareAlike 4.0 International License: :
-[***https://creativecommons.org/licenses/by-sa/4.0***](https://creativecommons.org/licenses/by-sa/4.0)
-
-*For more information or support with the Holacracy system:*
-
-[*http://www.holacracy.org*](http://www.holacracy.org)
-
-For comments and suggestions , please send an email to Andrea Faré:
-
-<anfare@gmail.com> possibly inserting: “Holacracy v4.1 Translation” in
-the subject.
-
+*per maggiori informazioni su Holacracy fare riferimento all’URL: [http://www.holacracy.org](http://www.holacracy.org)*
 
 ###PREMESSA
 
