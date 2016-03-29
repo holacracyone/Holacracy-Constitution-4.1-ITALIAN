@@ -1,16 +1,3 @@
-***Versione della Costituzione (Constitution Version): 4.1***
-***Versione della Traduzione (Translation Version) : 1.0***
-
-***NOTE DEL TRADUTTORE:***
-
-*Il presente documento costituisce una traduzione della corrispondente versione in lingua originale inglese scaricabile al seguente URL: [http://holacracy.org/constitution](http://holacracy.org/constitution)*
-
-*il Termine HOLACRACY è un marchio registrato da HolacracyOne LLC*
-
-*La Costituzione di Holacracy e di conseguenza la presente traduzione, sono sottoposte a licenza di tipo: **Creative Commons Attribution ShareAlike 4.0 International License: [***https://creativecommons.org/licenses/by-sa/4.0***](https://creativecommons.org/licenses/by-sa/4.0)
-
-*per maggiori informazioni su Holacracy fare riferimento all’URL: [http://www.holacracy.org](http://www.holacracy.org)*
-
 #Holacracy Costituzione v4.1 - Release Italian Version
 
 ##PREMESSA
@@ -662,7 +649,9 @@ I Ratificatori o i loro successori possono modificare o abrogare questa Costituz
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+La Costituzione di Holacracy e di conseguenza la presente traduzione, sono sottoposte a licenza di tipo: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Il Termine HOLACRACY è un marchio registrato da HolacracyOne, LLC.
 
 ---
 
