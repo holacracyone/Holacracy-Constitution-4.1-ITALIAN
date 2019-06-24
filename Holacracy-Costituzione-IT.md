@@ -1,6 +1,6 @@
 #Holacracy Costituzione v4.1 - Release Italian Version
 
-##PREMESSA
+PREMESSA
 
 Questa **“Costituzione”** definisce regole e processi per la governance e la gestione operativa di un’organizzazione. I **“Ratificatori”** adottano queste regole come struttura organizzativa formale dell’ **“Organizzazione”** specificata nell’atto di adozione della Costituzione stessa, sia che per Organizzazione s’intenda un’entità completa, sia che se ne intenda una parte, sulla quale i Ratificatori abbiano comunque completa autorità operativa e di controllo. I Ratificatori ed ognuno degli individui che acconsentono a prender parte alla governance e alla gestione operativa dell’Organizzazione (nel complesso definiti **“I Partner”)** potranno fare affidamento sulle autorità garantite loro dalla Costituzione ma saranno altresì tenuti all’assolvimento dei doveri ed al rispetto dei vincoli da essa imposti.
 
